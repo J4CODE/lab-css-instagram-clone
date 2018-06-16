@@ -7,7 +7,6 @@ light blue: #1c5380
 body {
   font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
-
 }
 
 .second-div {
@@ -16,32 +15,31 @@ body {
   padding: 100px;
   width: auto;
   height: 90px;
-  
-};
+}
 
+;
 .center-logo {
   margin-left: auto;
   margin-right: auto;
-};
+}
 
+;
 .fa fa-home {
   background-color: #1c5380;
-};
+}
 
-.phones {
+;
+.phones {}
 
-};
+;
+.third-div {}
 
-.third-div {
-
-};
-
+;
 .fifth-div {
   text-align: center;
   color: #698aaf;
   font-weight: bold;
-};
-
-.footer {
-  
 }
+
+;
+.footer {}
